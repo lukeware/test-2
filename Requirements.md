@@ -17,4 +17,4 @@ Want to contribute? Thanks! Use the [[Requirements Template | requirements-templ
 ## User Stories
 Please use the User Story Template to submit user stories and link them here.
 
-* [View Public Website | user-story-view-public-website
+* [[View Public Website | user-story-view-public-website]]
