@@ -14,6 +14,7 @@ Want to contribute? Thanks! Use the [[Requirements Template | requirements-templ
 
 * [[Server Requirements | server-requirements]]
 
-**User Stories:**
+## User Stories
+Please use the User Story Template to submit user stories and link them here.
 
 * As a User, I want to visit this site at a publicly available location so that I can enjoy poetry and images.
