@@ -12,7 +12,7 @@ Want to contribute? Thanks! Use the [[Requirements Template | requirements-templ
 
 **Requirements Documents:**
 
-* List of links to documents
+* [[Server Requirements | server-requirements]]
 
 **User Stories:**
 
