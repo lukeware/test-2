@@ -7,7 +7,7 @@ The purpose of this project is to create an engaging online archive of poetry an
 
 ## Quick Links to Production Documents
 
-* PDG Poetry Production Workflow
-* Requirement Template
+* [[PDG Poetry Product Workflow | pdg-poetry-product-workflow]]
+* [[Requirements | requirements]]
 
 Please explore all of the pages in this Wiki to review all of the information available about this project.
