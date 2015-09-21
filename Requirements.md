@@ -16,4 +16,4 @@ Want to contribute? Thanks! Use the [[Requirements Template | requirements-templ
 
 **User Stories:**
 
-* List of links to user stories.
+* As a User, I want to visit this site at a publicly available location so that I can enjoy poetry and images.
